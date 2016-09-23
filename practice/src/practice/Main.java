@@ -15,6 +15,7 @@ public class Main {
 
 		System.out.println("年齢を入力してください。");
         System.out.println("年齢を入力してください。");
+        System.out.println("年齢を入力してください。");
 
 		String i = input.readLine();
 		int age = Integer.parseInt(i);
